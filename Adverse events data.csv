@@ -1,5 +1,3 @@
-;;;Adverse Events Data ;;;;;;
-;;;;;;;;;
 Year;County;PSI;PSIDescription;Count;Population;ObsRate;;;
 2005;STATEWIDE;21;Retained Surgical Item or Unretrieved Device Fragment;321; 26,447,738 ;1.21;;;
 2006;STATEWIDE;21;Retained Surgical Item or Unretrieved Device Fragment;341; 26,679,904 ;1.28;;Country;County in which the patient resided
